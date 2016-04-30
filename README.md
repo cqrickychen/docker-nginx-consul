@@ -4,8 +4,8 @@
 
 # Supported tags and respective Dockerfile links
 
-- [`latest`, `1.9.15_0.14.0` (*mainline/Dockerfile*)](mainline/Dockerfile)
-- [`stable`, `1.10.0_0.14.0` (*stable/Dockerfile*)](stable/Dockerfile)
+- [`latest`](https://github.com/jihchi/docker-nginx-consul/blob/master/Dockerfile), [`1.9.15_0.14.0`](https://github.com/jihchi/docker-nginx-consul/blob/1.9.15_0.14.0/Dockerfile)
+- [`stable`](https://github.com/jihchi/docker-nginx-consul/blob/stable/Dockerfile), [`1.10.0_0.14.0`](https://github.com/jihchi/docker-nginx-consul/blob/1.10.0_0.14.0/Dockerfile)
 
 # Nginx with Consul Template
 
