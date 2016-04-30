@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build --rm -t seges/nginx-consul -f mainline/Dockerfile .
+docker build --rm -t jihchi/nginx-consul:latest .
