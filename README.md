@@ -1,6 +1,11 @@
-[![Build Status](https://travis-ci.org/seges/docker-nginx-consul.svg?branch=master)](https://travis-ci.org/seges/docker-nginx-consul)
+[![Build Status](https://travis-ci.org/jihchi/docker-nginx-consul.svg?branch=master)](https://travis-ci.org/jihchi/docker-nginx-consul)
 
-[![](https://badge.imagelayers.io/seges/nginx-consul:1.9.9.svg)](https://imagelayers.io/?images=seges/nginx-consul:1.9.9 'Get your own badge on imagelayers.io')
+[![](https://badge.imagelayers.io/jihchi/nginx-consul.svg)](https://imagelayers.io/?images=jihchi/nginx-consul 'Get your own badge on imagelayers.io')
+
+# Supported tags and respective Dockerfile links
+
+- latest, 1.9.15_0.14.0 (mainline/Dockerfile)
+- stable, 1.10.0_0.14.0 (stable/Dockerfile)
 
 # Nginx with Consul Template
 
@@ -17,5 +22,5 @@ Create your data volume image and place required configuration files based on th
 # Run
 
 ```
-docker run --rm --volumes-from=yourdata-image -ti seges/nginx-consul:1.9.9
+docker run --rm --volumes-from=yourdata-image -ti jihchi/nginx-consul
 ```
