@@ -4,8 +4,8 @@
 
 # Supported tags and respective Dockerfile links
 
-- latest, 1.9.15_0.14.0 (mainline/Dockerfile)
-- stable, 1.10.0_0.14.0 (stable/Dockerfile)
+- [`latest`, `1.9.15_0.14.0` (*mainline/Dockerfile*)](mainline/Dockerfile)
+- [`stable`, `1.10.0_0.14.0` (*stable/Dockerfile*)](stable/Dockerfile)
 
 # Nginx with Consul Template
 
