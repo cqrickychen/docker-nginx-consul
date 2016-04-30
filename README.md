@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/jihchi/docker-nginx-consul.svg?branch=master)](https://travis-ci.org/jihchi/docker-nginx-consul)
-
 [![](https://badge.imagelayers.io/jihchi/nginx-consul.svg)](https://imagelayers.io/?images=jihchi/nginx-consul 'Get your own badge on imagelayers.io')
+[![Docker Stars](https://img.shields.io/docker/stars/jihchi/nginx-consul.svg)](https://hub.docker.com/r/jihchi/nginx-consul/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/jihchi/nginx-consul.svg)](https://hub.docker.com/r/jihchi/nginx-consul/)
 
 # Supported tags and respective Dockerfile links
 
