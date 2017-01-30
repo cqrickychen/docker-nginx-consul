@@ -1,4 +1,4 @@
-FROM nginx:1.11.3
+FROM nginx:1.11.9
 MAINTAINER Archie Lee <achi@987.tw>
 
 RUN DEBIAN_FRONTEND=noninteractive \
